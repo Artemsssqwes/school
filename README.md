@@ -12,8 +12,7 @@
 ## 3. Структура даних
 | Назва змінної | Тип даних | Для чого потрібна |
 | :--- | :--- | :--- |
-| `user_input` | `str` | Ввід тексту |
-| `is_active` | `bool` | Контроль циклу |
+
  
 ## 4. Архітектура та Дизайн
 - 🗺️ **Схема логіки:** https://app.diagrams.net/#LUntitled%20Diagram.drawio#%7B%22pageId%22%3A%22hlotLDCMbLTdk6LwtJSV%22%7D
